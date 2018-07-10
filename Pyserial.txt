@@ -1,0 +1,8 @@
+Para instalar a biblioteca Pyserial:
+	-Depositar a pasta dist do Zip no Desktop;
+	-Abrir a command line;
+	-Escrever as seguintes linhas:
+		1."cd Desktop\dist"
+		2."cd pyserial-3.4"
+		3."python setup.py install"
+	
